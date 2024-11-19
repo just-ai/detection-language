@@ -86,7 +86,7 @@ ____
 ```commandline
 https://github.com/detectlanguage/detectlanguage-python
 ```
-```
+
 
 3. Проверяем питон:
 
